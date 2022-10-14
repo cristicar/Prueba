@@ -1,0 +1,13 @@
+/* declarar las contastes de colores y fuentes  */
+:root{
+       /*fuentes  */
+       --titulos:font-family: 'Roboto Mono', monospace;
+       --parra:font-family: 'Lato', sans-serif;
+       /* --colores */
+       --encabezado:red rgb(88,13,13);
+       --piedepagina:#000;
+       --enlace:#fff;
+       enlacesobre: #e2752c;
+       
+
+}
